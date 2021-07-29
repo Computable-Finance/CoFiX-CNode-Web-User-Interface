@@ -27,12 +27,12 @@ msgstr "余额："
 #: src/pages/Deposit/index.tsx
 #: src/pages/Withdraw/index.tsx
 msgid "CNode Token mining"
-msgstr "未参与挖矿的 CNode Token"
+msgstr "正在参与挖矿的 CNode Token"
 
 #: src/pages/Deposit/index.tsx
 #: src/pages/Withdraw/index.tsx
 msgid "CNode Token unmining"
-msgstr "正在参与挖矿的 CNode Token"
+msgstr "未参与挖矿的 CNode Token"
 
 #: src/libs/web3/hooks/useTransaction.ts
 #: src/pages/shared/ClaimCOFICard/index.tsx
